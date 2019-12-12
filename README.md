@@ -4,3 +4,7 @@
 ## Something need to be mentioned 
  - This program does use neither `winsock` nor `linux socket`. Instead, it was implemented by `QTcpServer` and `QTcpSocket`.
  - You can copy the source code of GUI to save your time if you need to make a similar course design like this.
+
+## Screenshots of program
+![Image text]()
+![Image text]()
