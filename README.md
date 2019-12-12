@@ -1,5 +1,5 @@
 ## Visual Chatroom Based on TCP/IP protocol 
-_This is a very simple demo implemented by Qt5.9, supporting multiple clients chatting with each other simultaneously.
+ _This is a very simple demo implemented by Qt5.9, supporting multiple clients chatting with each other simultaneously.
 
 ## Something need to be mentioned 
  - This program does use neither `winsock` nor `linux socket`. Instead, it was implemented by `QTcpServer` and `QTcpSocket`.</li>
