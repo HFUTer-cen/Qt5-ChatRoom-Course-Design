@@ -6,5 +6,5 @@
  - You can copy the source code of GUI to save your time if you need to make a similar course design like this.
 
 ## Screenshots of program
-![Image text]()
-![Image text]()
+![Image text](https://github.com/HFUTer-cen/Qt5-chatroom/blob/master/client.png)
+![Image text](https://github.com/HFUTer-cen/Qt5-chatroom/blob/master/server.png)
