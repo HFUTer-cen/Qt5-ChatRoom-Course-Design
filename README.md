@@ -5,5 +5,5 @@
  - This program does use neither `winsock` nor `linux socket`. Instead, it was implemented by `QTcpServer` and `QTcpSocket`.
 
 ## Screenshots of program
-![Image text]()
+![Image text](https://github.com/HFUTer-cen/Qt5-chatroom/blob/master/screenshot.png)
 
