@@ -32,7 +32,9 @@ public slots:
 private:
     Ui::ServerWindow* ui;
     QTcpServer* server;
+
     QStandardItemModel* tableModel;
+    QStandardItemModel* listModel;
 
     QVector<QTcpSocket*> socketList;
     QMap<QTcpSocket*, QString> clientMap;
